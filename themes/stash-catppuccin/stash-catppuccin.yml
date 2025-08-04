@@ -1,0 +1,6 @@
+name: Stash Catppuccin
+description: A theme for Stash inspired by the Catppuccin color palette.
+version: 0.1.0
+ui:
+  css:
+    - catppuccin-theme.css
